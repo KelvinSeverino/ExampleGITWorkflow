@@ -1,2 +1,2 @@
 # ExampleGITWorkflow
-Arquivo de teste para estudo do Curso Git Workflow 
+Projeto de teste para estudos do Curso Git Workflow 
